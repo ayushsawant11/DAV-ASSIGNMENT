@@ -1,0 +1,101 @@
+id,tweet_text,label
+1,"IPL 2024 has been absolutely electric! Best season in years 🔥",positive
+2,"KKR is unstoppable this season. Shreyas Iyer leading brilliantly!",positive
+3,"What a knock by Virat Kohli tonight! Legend never fades 👑",positive
+4,"RCB finally winning games consistently. This might be their year!",positive
+5,"SRH batting lineup is on another level. Travis Head is a beast!",positive
+6,"The opening ceremony of IPL 2024 was spectacular. Loved every bit!",positive
+7,"MI vs CSK match last night was a thriller. Can't sleep after that finish!",positive
+8,"Jasprit Bumrah is back and he looks lethal as ever. Missed him so much!",positive
+9,"LSG vs DC was such an entertaining game. IPL never disappoints!",positive
+10,"Pat Cummins buying himself for 20 crore and then taking a hat-trick? Legendary stuff.",positive
+11,"Rinku Singh doing it again! This guy has ice in his veins 🧊",positive
+12,"IPL 2024 viewership is through the roof. Cricket is just on another level in India.",positive
+13,"What a tournament so far! Every team looks competitive this year.",positive
+14,"Sunil Narine reinventing himself as an opener at 36. Absolute respect.",positive
+15,"The atmosphere at Eden Gardens is always unmatched. KKR fans are something else!",positive
+16,"Heinrich Klaasen smashed another fifty today. What a find for SRH!",positive
+17,"CSK vs RCB is always a festival. Both fanbases make it special every time.",positive
+18,"Young Yashasvi Jaiswal is the future of Indian cricket no doubt about it.",positive
+19,"Watching IPL with family is one of the best things about April in India.",positive
+20,"Brilliant catch by Jitesh Sharma in the deep. Fielding standards are rising!",positive
+21,"IPL 2024 is okay so far. Some good matches, some dull ones.",neutral
+22,"MI haven't been great but it's still early days in the tournament.",neutral
+23,"Watching the match. DC vs PBKS going on right now.",neutral
+24,"IPL schedule this year has some back-to-back matches which is a lot.",neutral
+25,"SRH made some interesting picks in the auction. Let's see how it goes.",neutral
+26,"The toss has a big impact in evening games due to the dew factor.",neutral
+27,"KKR announced their playing XI for tonight's match.",neutral
+28,"IPL prize money has been increased this year apparently.",neutral
+29,"Rohit Sharma has been rested from a few matches this month.",neutral
+30,"Both teams played well but eventually conditions decided the game.",neutral
+31,"The DRS system was used multiple times during today's match.",neutral
+32,"Covers are on the ground. Rain delay possible tonight in Kolkata.",neutral
+33,"LSG released several players before this season's auction.",neutral
+34,"Wankhede Stadium is hosting 4 matches this week.",neutral
+35,"Fantasy cricket is more popular than ever during IPL.",neutral
+36,"I just check the scorecard occasionally. Don't follow every match.",neutral
+37,"The broadcast commentary team has changed a bit this year.",neutral
+38,"IPL runs from March to late May approximately.",neutral
+39,"Some players are managing workloads across IPL and national duty.",neutral
+40,"Average ticket price for IPL this year has gone up compared to last season.",neutral
+41,"RCB collapsed again in the last three overs. Heartbreaking as always.",negative
+42,"MI's bowling is looking very weak this IPL. They're leaking too many runs.",negative
+43,"Another slow and boring pitch. IPL is losing its entertainment value.",negative
+44,"PBKS choked again in a crucial match. Same story every season.",negative
+45,"Terrible umpiring decision today. That was clearly not out!",negative
+46,"IPL is just too commercial now. It's lost its cricketing soul.",negative
+47,"Overpriced tickets and you can barely see the field. Pathetic experience at the venue.",negative
+48,"Why is this match starting at 3:30 PM in 42°C heat? Poor scheduling.",negative
+49,"DC played pathetically today. Zero intensity and zero effort.",negative
+50,"Another match decided by dew. Pitches need to be better maintained.",negative
+51,"CSK looks really old this season. Time for a serious squad overhaul.",negative
+52,"The commentary is unbearable. Same jokes and catchphrases every single game.",negative
+53,"RCB fans are delusional if they think this squad can win the title.",negative
+54,"Way too many ads during the broadcast. Can't even follow the game properly.",negative
+55,"Fake crowd noise during matches is so annoying and obvious.",negative
+56,"IPL auction system is broken. Small franchises can never compete financially.",negative
+57,"The wicket at this venue is terrible. Scores in the 120s are boring to watch.",negative
+58,"Another top-order collapse from MI. Hardik Pandya is not the answer as captain.",negative
+59,"Impact Player rule is ruining the balance of the game. Bowlers have no chance.",negative
+60,"This match has been the most boring IPL game I have ever watched. Terrible.",negative
+61,"KKR are playing some incredible cricket. Their energy is contagious!",positive
+62,"Abhishek Sharma hitting 50+ off 20 balls is just insane. Next-level stuff!",positive
+63,"The IPL is the greatest T20 league in the world and it's not even close.",positive
+64,"Fantastic last over from Rashid Khan. Always delivers under pressure!",positive
+65,"SRH vs PBKS was non-stop entertainment. Both teams gave it their all.",positive
+66,"Brilliant innings by Shubman Gill. He's maturing beautifully as a batter.",positive
+67,"Loved the fan moment when a kid caught a six at the stands. So wholesome!",positive
+68,"IPL is genuinely the most exciting sporting event in India. Period.",positive
+69,"RR looking very solid this season. Sanju Samson leading from the front.",positive
+70,"The T20 format at its best tonight. Every ball matters and it shows!",positive
+71,"Faf du Plessis is still hitting them cleanly at 39. Remarkable athlete!",positive
+72,"KKR winning close games is a sign of a champion team. Very impressed.",positive
+73,"Today's match was decent. Nothing too exciting but a competitive game.",neutral
+74,"Checked the highlights this morning. Seems like a standard IPL match.",neutral
+75,"Not a big cricket fan but even I watched last night's finale overs.",neutral
+76,"Prasidh Krishna bowled decently in his spell today.",neutral
+77,"Ground staff are working hard to keep pitches playable during the heat.",neutral
+78,"Another match tonight. Think I'll watch this one at home.",neutral
+79,"The auction strategies of franchises vary quite a bit every year.",neutral
+80,"Some overseas players opted out this season due to scheduling conflicts.",neutral
+81,"IPL viewership data for 2024 is expected to be released next month.",neutral
+82,"Several matches this season went to the last ball. Close finishes.",neutral
+83,"This is the 17th season of the IPL since it started in 2008.",neutral
+84,"KL Rahul had a quiet game tonight. He's been inconsistent this season.",neutral
+85,"MI lost again tonight. They are really struggling to find their rhythm.",negative
+86,"Ground conditions at this venue are just not suitable for T20 cricket.",negative
+87,"The umpires gave three wrong decisions today. VAR equivalent needed in cricket.",negative
+88,"IPL teams care only about money. Player welfare is completely ignored.",negative
+89,"Watching RCB lose is painful. They find new ways to disappoint every year.",negative
+90,"Utterly boring match tonight. Both teams played like they didn't want to win.",negative
+91,"Hardik Pandya is getting booed every match. The team management needs to act.",negative
+92,"Impact Player rule needs to be scrapped immediately. Ruining team balance.",negative
+93,"Broadcasting quality this year has actually gotten worse. More buffering issues.",negative
+94,"SRH's bowling was disgraceful in the last two overs. Absolutely no plan.",negative
+95,"IPL is becoming too long. Playoff fatigue is real and fans are feeling it.",negative
+96,"Crowd at this venue looked half empty. People are losing interest in IPL.",negative
+97,"Another match with a lopsided score. Not entertaining at all.",negative
+98,"LSG played without any strategy today. Poor captaincy from KL Rahul.",negative
+99,"Ticket prices have gone up but the experience at grounds has gone down.",negative
+100,"Way too many franchise changes every season. No continuity or team identity.",negative
