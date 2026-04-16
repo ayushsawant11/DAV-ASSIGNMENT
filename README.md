@@ -123,3 +123,9 @@ seaborn
 ## (7) Conclusion
 
 This assignment successfully demonstrated a complete text analytics pipeline for sentiment classification of IPL 2024 tweets. Three classical ML models — Naïve Bayes, SVM, and Logistic Regression — were trained and evaluated on a manually labelled 100-tweet dataset. All three achieved a weighted F1-Score of approximately **0.65**, with Naïve Bayes and SVM performing best. The results confirm that TF-IDF with bigrams is an effective baseline for short-text sentiment classification. Future improvements could include increasing the dataset size to 500+ tweets, applying pre-trained embeddings (BERT or Word2Vec), incorporating emoji and hashtag features, and using cross-validation for more robust evaluation.
+
+## (8) student's details
+- Name:Ayush Ramesh Sawant
+- Roll No:51
+- UIN:231A009
+- YEAR: TE-AIDS
